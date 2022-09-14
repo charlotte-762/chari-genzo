@@ -1,0 +1,14 @@
+C:\Users\zotya\source\repos\Genzo\Genzo\bin\Debug\netcoreapp3.1\Genzo.exe
+C:\Users\zotya\source\repos\Genzo\Genzo\bin\Debug\netcoreapp3.1\Genzo.deps.json
+C:\Users\zotya\source\repos\Genzo\Genzo\bin\Debug\netcoreapp3.1\Genzo.runtimeconfig.json
+C:\Users\zotya\source\repos\Genzo\Genzo\bin\Debug\netcoreapp3.1\Genzo.runtimeconfig.dev.json
+C:\Users\zotya\source\repos\Genzo\Genzo\bin\Debug\netcoreapp3.1\Genzo.dll
+C:\Users\zotya\source\repos\Genzo\Genzo\bin\Debug\netcoreapp3.1\Genzo.pdb
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.csproj.AssemblyReference.cache
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.AssemblyInfoInputs.cache
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.AssemblyInfo.cs
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.csproj.CoreCompileInputs.cache
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.dll
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.pdb
+C:\Users\zotya\source\repos\Genzo\Genzo\obj\Debug\netcoreapp3.1\Genzo.genruntimeconfig.cache

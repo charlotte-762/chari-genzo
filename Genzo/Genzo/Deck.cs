@@ -45,7 +45,7 @@ namespace Genzo
                 DeckFill();
                 tMode = 52;
             }
-            for (int i = 0; i < tMode + 1; i++)
+            for (int i = 0; i <= tMode; i++)
             {
                 DeckCurrent.Insert(DeckRNG.Next(0, DeckCurrent.Count + 1), DeckCurrent[0]);
                 DeckCurrent.RemoveAt(0);

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Genzo
 {
@@ -16,6 +17,7 @@ namespace Genzo
 			{
 				Caravans[i] = new Caravan((byte)(Control ? 0 : 1), (byte)((Control ? 0 : 1) * 3 + i));
 			}
+			PlayerDeck.DeckShuffle();
 			PlayerHand.HandSize = 8;
 			PlayerHand.HandFill(PlayerDeck);
 			PlayerHand.HandSize = 5;
